@@ -1,1 +1,19 @@
-# homework4
+<html>
+<head>
+<meta charset="utf-8">
+<title>网传小官网</title>
+<link rel="stylesheet" type="text/css" href="assets/style.css" />
+</head>
+<body>
+<div class="content">
+   <div class="header">
+     <img src="img/logo.png">
+        <div class="quickLink">
+            <a href="#">教师进入</a>
+            <a href="#">教师进入</a>
+            <a href="#">教师进入</a>
+        </div>
+   </div>
+</div>
+</body>
+</html>
